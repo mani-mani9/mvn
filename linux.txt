@@ -9,3 +9,4 @@ commands
 8.nslookup
 9.cat
 10.tac
+rev
