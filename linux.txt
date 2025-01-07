@@ -3,4 +3,9 @@ commands
 2.pwd
 3.ls -l
 4.ifconfig
-5.touch 
+5.touch
+6.ping
+7.netstat
+8.nslookup
+9.cat
+10.tac
